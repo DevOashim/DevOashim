@@ -22,95 +22,77 @@
 ### 🚀 Featured Projects
 
 <div align="center">
+  <div style="display: inline-block; width: 45%; min-width: 350px; vertical-align: top; text-align: left; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 5px;">
+    <h4><img src="https://scriptfusions.mnsithub.com/html/flowtrack/main-html/assets/images/favicons/favicon.ico" width="20"/> <a href="https://flowtrack.weblayoutpro.com/">FlowTrack - Logistics Service</a></h4>
+    <p>Complete logistics and shipment tracking system with powerful admin panel.</p>
+    <details>
+      <summary><b>Core Features:</b></summary>
+      <ul>
+        <li>Shipment & Delivery Tracking</li>
+        <li>Admin Panel & Dashboard</li>
+        <li>Newsletter & Analytics</li>
+      </ul>
+    </details>
+    <br>
+    <b>STACK:</b> <img src="https://skillicons.dev/icons?i=laravel" width="25" style="vertical-align: middle;"/> 
+    <div align="right">
+      <a href="https://flowtrack.weblayoutpro.com/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    </div>
+  </div>
 
-<div align="left" style="display: inline-block; width: 400px; max-width: 100%; vertical-align: top; margin: 10px; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-<h4><img src="https://scriptfusions.mnsithub.com/html/flowtrack/main-html/assets/images/favicons/favicon.ico" width="20"/> <a href="https://flowtrack.weblayoutpro.com/">FlowTrack - Logistics Service</a></h4>
-<p>Complete logistics and shipment tracking system with powerful admin panel and delivery management.</p>
-<details>
-<summary><b>Core Features:</b></summary>
-<ul>
-<li>Shipment & Delivery Tracking</li>
-<li>Admin Panel & Dashboard</li>
-<li>Products & Orders Management</li>
-<li>Team & Contact Reports</li>
-<li>Newsletter & Analytics</li>
-<li>SMTP & Social Login</li>
-</ul>
-</details>
-<br />
-<b>STACK:</b> <img src="https://skillicons.dev/icons?i=laravel" width="25" /> 
-<p align="right">
-<a href="https://flowtrack.weblayoutpro.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Completed-success?style=flat-square&logo=checkmarx&logoColor=white" />
-</p>
-</div>
+  <div style="display: inline-block; width: 45%; min-width: 350px; vertical-align: top; text-align: left; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 5px;">
+    <h4><img src="https://scriptfusions.mnsithub.com/html/mystory/assets/images/favicons/favicon.ico" width="20"/> <a href="https://react-mystory.mnsithub.com/">MyStory - Portfolio Template</a></h4>
+    <p>Modern responsive portfolio template for freelancers and creative professionals.</p>
+    <details>
+      <summary><b>Core Features:</b></summary>
+      <ul>
+        <li>Multiple Page Layouts</li>
+        <li>Resume/CV Builder</li>
+        <li>Skills Showcase</li>
+      </ul>
+    </details>
+    <br>
+    <b>STACK:</b> <img src="https://skillicons.dev/icons?i=react" width="25" style="vertical-align: middle;"/> 
+    <div align="right">
+      <a href="https://react-mystory.mnsithub.com"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    </div>
+  </div>
 
-<div align="left" style="display: inline-block; width: 400px; max-width: 100%; vertical-align: top; margin: 10px; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-<h4><img src="https://scriptfusions.mnsithub.com/html/mystory/assets/images/favicons/favicon.ico" width="20"/> <a href="https://react-mystory.mnsithub.com/">MyStory - Portfolio Template</a></h4>
-<p>Modern responsive portfolio template for freelancers, developers, and creative professionals.</p>
-<details>
-<summary><b>Core Features:</b></summary>
-<ul>
-<li>Multiple Page Layouts</li>
-<li>Fully Responsive Design</li>
-<li>Resume/CV Builder</li>
-<li>Portfolio Gallery</li>
-<li>Contact Form</li>
-<li>Skills Showcase</li>
-</ul>
-</details>
-<br />
-<b>STACK:</b> <img src="https://skillicons.dev/icons?i=react" width="25" /> 
-<p align="right">
-<a href="https://react-mystory.mnsithub.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Completed-success?style=flat-square&logo=checkmarx&logoColor=white" />
-</p>
-</div>
+  <div style="display: inline-block; width: 45%; min-width: 350px; vertical-align: top; text-align: left; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 5px;">
+    <h4>🔹 <a href="https://github.com/DevOashim/RegX-DomDocument">RegX-DomDocument</a></h4>
+    <p>Pure regex-based DOM manipulation PHP library with zero dependencies.</p>
+    <details>
+      <summary><b>Core Features:</b></summary>
+      <ul>
+        <li>Lightweight & Fast</li>
+        <li>Regex Operations</li>
+        <li>Composer Package</li>
+      </ul>
+    </details>
+    <br>
+    <b>STACK:</b> <img src="https://skillicons.dev/icons?i=php" width="25" style="vertical-align: middle;"/> 
+    <div align="right">
+      <a href="https://github.com/DevOashim/RegX-DomDocument"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    </div>
+  </div>
 
-<div align="left" style="display: inline-block; width: 400px; max-width: 100%; vertical-align: top; margin: 10px; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-<h4>🔹 <a href="https://github.com/DevOashim/RegX-DomDocument">RegX-DomDocument</a></h4>
-<p>Pure regex-based DOM manipulation PHP library with zero dependencies.</p>
-<details>
-<summary><b>Core Features:</b></summary>
-<ul>
-<li>Lightweight & Fast</li>
-<li>No External Dependencies</li>
-<li>Regex Operations</li>
-<li>DOM Manipulation</li>
-<li>Well Documented</li>
-<li>Composer Package</li>
-</ul>
-</details>
-<br />
-<b>STACK:</b> <img src="https://skillicons.dev/icons?i=php" width="25" /> 
-<p align="right">
-<a href="https://github.com/DevOashim/RegX-DomDocument" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Completed-success?style=flat-square&logo=checkmarx&logoColor=white" />
-</p>
-</div>
-
-<div align="left" style="display: inline-block; width: 400px; max-width: 100%; vertical-align: top; margin: 10px; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-<h4>🔹 <a href="https://github.com/DevOashim/ecommerce-platform">TransHub - E-commerce</a></h4>
-<p>Full-featured online shopping platform with payment gateway and inventory management.</p>
-<details>
-<summary><b>Core Features:</b></summary>
-<ul>
-<li>Product Management</li>
-<li>Shopping Cart</li>
-<li>Payment Gateway (Stripe)</li>
-<li>Admin Dashboard</li>
-<li>User Authentication</li>
-<li>Order Tracking</li>
-</ul>
-</details>
-<br />
-<b>STACK:</b> <img src="https://skillicons.dev/icons?i=react" width="25" /> 
-<p align="right">
-<a href="https://github.com/DevOashim/ecommerce-platform" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Completed-success?style=flat-square&logo=checkmarx&logoColor=white" />
-</p>
-</div>
-
+  <div style="display: inline-block; width: 45%; min-width: 350px; vertical-align: top; text-align: left; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 5px;">
+    <h4>🔹 <a href="https://github.com/DevOashim/ecommerce-platform">TransHub - E-commerce</a></h4>
+    <p>Full-featured online shopping platform with payment gateway management.</p>
+    <details>
+      <summary><b>Core Features:</b></summary>
+      <ul>
+        <li>Product Management</li>
+        <li>Stripe Gateway</li>
+        <li>Order Tracking</li>
+      </ul>
+    </details>
+    <br>
+    <b>STACK:</b> <img src="https://skillicons.dev/icons?i=react" width="25" style="vertical-align: middle;"/> 
+    <div align="right">
+      <a href="https://github.com/DevOashim/ecommerce-platform"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    </div>
+  </div>
 </div>
 
 
