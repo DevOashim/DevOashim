@@ -21,80 +21,97 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <div style="display: inline-block; width: 45%; min-width: 350px; vertical-align: top; text-align: left; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 5px;">
-    <h4><img src="https://scriptfusions.mnsithub.com/html/flowtrack/main-html/assets/images/favicons/favicon.ico" width="20"/> <a href="https://flowtrack.weblayoutpro.com/">FlowTrack - Logistics Service</a></h4>
-    <p>Complete logistics and shipment tracking system with powerful admin panel.</p>
-    <details>
-      <summary><b>Core Features:</b></summary>
-      <ul>
-        <li>Shipment & Delivery Tracking</li>
-        <li>Admin Panel & Dashboard</li>
-        <li>Newsletter & Analytics</li>
-      </ul>
-    </details>
-    <br>
-    <b>STACK:</b> <img src="https://skillicons.dev/icons?i=laravel" width="25" style="vertical-align: middle;"/> 
-    <div align="right">
-      <a href="https://flowtrack.weblayoutpro.com/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-    </div>
-  </div>
+<table>
+<tr>
+<td width="50%">
 
-  <div style="display: inline-block; width: 45%; min-width: 350px; vertical-align: top; text-align: left; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 5px;">
-    <h4><img src="https://scriptfusions.mnsithub.com/html/mystory/assets/images/favicons/favicon.ico" width="20"/> <a href="https://react-mystory.mnsithub.com/">MyStory - Portfolio Template</a></h4>
-    <p>Modern responsive portfolio template for freelancers and creative professionals.</p>
-    <details>
-      <summary><b>Core Features:</b></summary>
-      <ul>
-        <li>Multiple Page Layouts</li>
-        <li>Resume/CV Builder</li>
-        <li>Skills Showcase</li>
-      </ul>
-    </details>
-    <br>
-    <b>STACK:</b> <img src="https://skillicons.dev/icons?i=react" width="25" style="vertical-align: middle;"/> 
-    <div align="right">
-      <a href="https://react-mystory.mnsithub.com"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-    </div>
-  </div>
+#### <img src="https://scriptfusions.mnsithub.com/html/flowtrack/main-html/assets/images/favicons/favicon.ico" width="20"/> [FlowTrack - Logistics Service](https://flowtrack.weblayoutpro.com/)
+Complete logistics and shipment tracking system with powerful admin panel and delivery management.
 
-  <div style="display: inline-block; width: 45%; min-width: 350px; vertical-align: top; text-align: left; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 5px;">
-    <h4>🔹 <a href="https://github.com/DevOashim/RegX-DomDocument">RegX-DomDocument</a></h4>
-    <p>Pure regex-based DOM manipulation PHP library with zero dependencies.</p>
-    <details>
-      <summary><b>Core Features:</b></summary>
-      <ul>
-        <li>Lightweight & Fast</li>
-        <li>Regex Operations</li>
-        <li>Composer Package</li>
-      </ul>
-    </details>
-    <br>
-    <b>STACK:</b> <img src="https://skillicons.dev/icons?i=php" width="25" style="vertical-align: middle;"/> 
-    <div align="right">
-      <a href="https://github.com/DevOashim/RegX-DomDocument"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-    </div>
-  </div>
+<details>
+<summary><b>Core Features:</b></summary>
 
-  <div style="display: inline-block; width: 45%; min-width: 350px; vertical-align: top; text-align: left; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 5px;">
-    <h4>🔹 <a href="https://github.com/DevOashim/ecommerce-platform">TransHub - E-commerce</a></h4>
-    <p>Full-featured online shopping platform with payment gateway management.</p>
-    <details>
-      <summary><b>Core Features:</b></summary>
-      <ul>
-        <li>Product Management</li>
-        <li>Stripe Gateway</li>
-        <li>Order Tracking</li>
-      </ul>
-    </details>
-    <br>
-    <b>STACK:</b> <img src="https://skillicons.dev/icons?i=react" width="25" style="vertical-align: middle;"/> 
-    <div align="right">
-      <a href="https://github.com/DevOashim/ecommerce-platform"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-    </div>
-  </div>
-</div>
+- Shipment & Delivery Tracking
+- Admin Panel & Dashboard  
+- Products & Orders Management
+- Team & Contact Reports
+- Newsletter & Analytics
+- SMTP & Social Login
 
+</details>
+
+***STACK:***<img src="https://skillicons.dev/icons?i=laravel" width="30" style="vertical-align: end;"/> 
+<a href="https://flowtrack.weblayoutpro.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" style="vertical-align: middle;" /></a> <img src="https://img.shields.io/badge/Completed-success?style=flat-square&logo=checkmarx&logoColor=white" style="vertical-align: middle; float: right;" />
+
+</td>
+<td width="50%">
+
+#### <img src="https://scriptfusions.mnsithub.com/html/mystory/assets/images/favicons/favicon.ico" width="20"/> [MyStory - Portfolio Template](https://react-mystory.mnsithub.com/)
+Modern responsive portfolio template for freelancers, developers, and creative professionals.
+
+<details>
+<summary><b>Core Features:</b></summary>
+
+- Multiple Page Layouts
+- Fully Responsive Design
+- Resume/CV Builder
+- Portfolio Gallery
+- Contact Form
+- Skills Showcase
+
+</details>
+
+***STACK:***<img src="https://skillicons.dev/icons?i=react" width="30" style="vertical-align: end;"/> 
+<a href="https://react-mystory.mnsithub.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" style="vertical-align: middle;" /></a> <img src="https://img.shields.io/badge/Completed-success?style=flat-square&logo=checkmarx&logoColor=white" style="vertical-align: middle; float: right;" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🔹 [RegX-DomDocument](https://github.com/DevOashim/RegX-DomDocument)
+Pure regex-based DOM manipulation PHP library with zero dependencies.
+
+<details>
+<summary><b>Core Features:</b></summary>
+
+- Lightweight & Fast
+- No External Dependencies
+- Regex Operations
+- DOM Manipulation
+- Well Documented
+- Composer Package
+
+</details>
+
+***STACK:***<img src="https://skillicons.dev/icons?i=php" width="30" style="vertical-align: end;"/> 
+<a href="https://github.com/DevOashim/RegX-DomDocument" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" style="vertical-align: middle;" /></a> <img src="https://img.shields.io/badge/Completed-success?style=flat-square&logo=checkmarx&logoColor=white" style="vertical-align: middle; float: right;" />
+
+</td>
+<td width="50%">
+
+#### 🔹 [TransHub](https://github.com/DevOashim/ecommerce-platform)
+Full-featured online shopping platform with payment gateway and inventory management.
+
+<details>
+<summary><b>Core Features:</b></summary>
+
+- Product Management
+- Shopping Cart
+- Payment Gateway (Stripe)
+- Admin Dashboard
+- User Authentication
+- Order Tracking
+
+</details>
+
+***STACK:***<img src="https://skillicons.dev/icons?i=react" width="30" style="vertical-align: end;"/> 
+<a href="https://github.com/DevOashim/RegX-DomDocument" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" style="vertical-align: middle;" /></a> <img src="https://img.shields.io/badge/Completed-success?style=flat-square&logo=checkmarx&logoColor=white" style="vertical-align: middle; float: right;" />
+
+</td>
+</tr>
+</table>
 
 ### 📫 Connect with Me
 
