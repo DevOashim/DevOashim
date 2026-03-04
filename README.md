@@ -19,13 +19,13 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-#### <img src="https://scriptfusions.mnsithub.com/html/flowtrack/main-html/assets/images/favicons/favicon.ico" width="20"/> [FlowTrack - Logistics Service](https://flowtrack.weblayoutpro.com/)
+#### <img src="https://scriptfusions.mnsithub.com/html/flowtrack/main-html/assets/images/favicons/favicon.ico" width="20"/> [FlowTrack CMS- Logistics Service](https://flowtrack.weblayoutpro.com/)
 Complete logistics and shipment tracking system with powerful admin panel and delivery management.
 
 <details>
@@ -91,7 +91,7 @@ Pure regex-based DOM manipulation PHP library with zero dependencies.
 </td>
 <td width="50%">
 
-#### 🔹 [TransHub](https://github.com/DevOashim/ecommerce-platform)
+#### 🔹 [TransHub](https://reactnextjs-transhub.mnsithub.com)
 Full-featured online shopping platform with payment gateway and inventory management.
 
 <details>
