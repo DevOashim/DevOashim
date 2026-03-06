@@ -4,7 +4,9 @@
 <h3 align="center">Full Stack Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=DevOashim.DevOashim&left_color=0e75b6&left_text=Unique%20Visitors" alt="unique visitors" />
+  <a href="https://github.com/DevOashim">
+    <img src="https://komarev.com/ghpvc/?username=DevOashim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
 ---
