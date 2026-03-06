@@ -4,9 +4,9 @@
 <h3 align="center">Full Stack Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <a href="https://github.com/DevOashim">
-    <img src="https://komarev.com/ghpvc/?username=DevOashim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevOashim&count_bg=%230e75b6&title_bg=%23555555&icon=github.alt&icon_color=%23E7E7E7&title=Unique+Visits&edge_flat=false"/>
+</a>
 </p>
 
 ---
