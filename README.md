@@ -25,7 +25,7 @@
 <tr>
 <td width="50%">
 
-#### <img src="https://scriptfusions.mnsithub.com/html/flowtrack/main-html/assets/images/favicons/favicon.ico" width="20"/> [FlowTrack CMS- Logistics Service](https://flowtrack.weblayoutpro.com/)
+#### <img src="https://scriptfusions.mnsithub.com/html/flowtrack/main-html/assets/images/favicons/favicon.ico" width="20"/> [FlowTrack CMS- Logistics Service](https://flowtrack-cms.mnsithub.com)
 Complete logistics and shipment tracking system with powerful admin panel and delivery management.
 
 <details>
@@ -41,7 +41,7 @@ Complete logistics and shipment tracking system with powerful admin panel and de
 </details>
 
 ***STACK:***<img src="https://skillicons.dev/icons?i=laravel" width="30" style="vertical-align: end;"/> 
-<a href="https://flowtrack.weblayoutpro.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" style="vertical-align: middle;" /></a> <img src="https://img.shields.io/badge/Completed-success?style=flat-square&logo=checkmarx&logoColor=white" style="vertical-align: middle; float: right;" />
+<a href="https://flowtrack-cms.mnsithub.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=googlechrome&logoColor=white" style="vertical-align: middle;" /></a> <img src="https://img.shields.io/badge/Completed-success?style=flat-square&logo=checkmarx&logoColor=white" style="vertical-align: middle; float: right;" />
 
 </td>
 <td width="50%">
